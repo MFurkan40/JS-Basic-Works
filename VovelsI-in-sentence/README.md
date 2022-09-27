@@ -7,7 +7,7 @@ Create a function that'll return an integer of the number of vowels found in a s
 
 ## Project View
 
-<img src="./img/x.jpg" width="600" />
+<img src="./img/vovels.jpg" width="600" />
 
 ## Learning Outcomes
 
